@@ -1,0 +1,53 @@
+/*1. Seleccionar la etiqueta*/
+img {
+    width: 200px;
+    height: auto;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#intro {
+    width: 100vw;
+    height: 30vh;
+    background-color: blanchedalmond;
+    position: relative;
+}
+
+h1 {
+    color: rgb(29, 20, 2);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    display: inline;
+}
+
+h2{
+    text-align: center;
+}
+#about {
+    width: 100vw;
+    height: 1020px;
+    background-color: rgb(115, 68, 160);
+    position: relative;
+}
+#fun {
+    width: 100vw;
+    height: 30vh;
+    background-color: rgb(128, 180, 228);
+    position: relative;
+}
+#contact {
+    width: 100vw;
+    height: 30vh;
+    background-color: rgb(55, 165, 156);
+    position: relative;
+}
+
+#contact a{
+    position: relative;
+    left: 50%;
+    top: 50%;
+    display: inline;
